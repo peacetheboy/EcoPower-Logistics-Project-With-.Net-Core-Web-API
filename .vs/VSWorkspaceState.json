@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EcoPowerSolutions",
+    "\\EcoPowerSolutions\\EcoPowerSolutions",
+    "\\EcoPowerSolutions\\EcoPowerSolutions\\Controllers"
   ],
-  "SelectedNode": "\\C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567",
+  "SelectedNode": "\\EcoPowerSolutions\\EcoPowerSolutions\\Controllers\\CustomersController.cs",
   "PreviewInSolutionExplorer": false
 }
