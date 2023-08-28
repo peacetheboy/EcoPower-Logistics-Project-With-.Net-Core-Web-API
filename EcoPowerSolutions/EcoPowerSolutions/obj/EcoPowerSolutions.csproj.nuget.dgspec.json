@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itstudent\\source\\repos\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {}
+    "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itstudent\\source\\repos\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {
+    "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itstudent\\source\\repos\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
         "projectName": "EcoPowerSolutions",
-        "projectPath": "C:\\Users\\itstudent\\source\\repos\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
+        "projectPath": "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
         "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itstudent\\source\\repos\\EcoPowerSolutions\\EcoPowerSolutions\\obj\\",
+        "outputPath": "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
