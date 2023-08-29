@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itstudent\\source\\repos\\project2\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {}
+    "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itstudent\\source\\repos\\project2\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {
+    "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itstudent\\source\\repos\\project2\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
         "projectName": "EcoPowerSolutions",
-        "projectPath": "C:\\Users\\itstudent\\source\\repos\\project2\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
+        "projectPath": "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\EcoPowerSolutions.csproj",
         "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itstudent\\source\\repos\\project2\\EcoPowerSolutions\\EcoPowerSolutions\\obj\\",
+        "outputPath": "C:\\Users\\itstudent\\Source\\Repos\\CMPG-323-Project-2-36564567\\EcoPowerSolutions\\EcoPowerSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,15 +41,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
