@@ -92,8 +92,6 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\EcoPowerSolutions.runtimeconfig.json
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\EcoPowerSolutions.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\EcoPowerSolutions.pdb
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Azure.Core.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Humanizer.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\MessagePack.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -118,19 +116,9 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
@@ -138,7 +126,6 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -148,7 +135,6 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\NuGet.Common.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\NuGet.Configuration.dll
@@ -162,7 +148,6 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.CodeDom.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Composition.AttributedModel.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Composition.Convention.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Composition.Hosting.dll
@@ -171,13 +156,10 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Memory.Data.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Windows.Extensions.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\af\Humanizer.resources.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\ar\Humanizer.resources.dll
@@ -329,7 +311,6 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\EcoPowerSolutions.csproj.AssemblyReference.cache
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\EcoPowerSolutions.GeneratedMSBuildEditorConfig.editorconfig
@@ -352,3 +333,10 @@ C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\Ec
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\EcoPowerSolutions.pdb
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\EcoPowerSolutions.genruntimeconfig.cache
 C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\ref\EcoPowerSolutions.dll
+C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\itstudent\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
