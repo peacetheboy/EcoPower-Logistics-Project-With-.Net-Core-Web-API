@@ -1,3 +1,5 @@
+![Untitled design](https://github.com/peacetheboy/CMPG-323-Project-2-36564567/assets/90477030/3cee266c-fdcd-4af3-94e0-99e1e8610908)
+
 # CMPG-323-Project-2-36564567
 # EcoPower Logistics Project: With .Net Core Web API
 
