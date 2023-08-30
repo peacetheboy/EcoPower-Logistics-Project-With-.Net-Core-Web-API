@@ -1,20 +1,19 @@
 # CMPG-323-Project-2-36564567
-Project 2 EcoPowerSolutions With .Net Core Web API
-# EcoPower Logistics Project: CRUD RESTful API for Logistics Management
+# EcoPower Logistics Project: With .Net Core Web API
 
-## Overview 11
+## Overview
 
-Welcome to the EcoPower Logistics Project README. This document provides an overview of the project's objectives, the scope of work, and how stakeholders can use the developed CRUD RESTful API for logistics management. The project aims to enhance the efficiency and effectiveness of logistics operations using modern technology and API integration.
+Greetings! Thank you for accessing the README for the EcoPower Logistics Project. This document offers a comprehensive outline of the project's goals, the extent of activities involved, and details on the utilization of the .Net Web API designed for streamlining logistics management. The primary objective of this initiative is to optimize the productivity and proficiency of logistics procedures through the integration of contemporary technology and API functionalities. Please continue reading for further information.
 
 ## Introduction
-The EcoPower Logistics Project focuses on improving the management of logistics operations, especially in the context of delivering solar energy products. This project involves the creation of a CRUD RESTful API that connects to a database to manage logistics data efficiently.
+The EcoPower Logistics Project centers around enhancing the supervision of logistical activities, particularly for the distribution of solar energy commodities. This initiative encompasses the development of a .Net Core Web API, which interfaces with a database to streamline the handling of logistics information effectively.
 
 ## Project Objectives
 ### The main objectives of this project are as follows:
 
-Develop a CRUD RESTful API that integrates with a database for logistics data management.
-Enhance the efficiency of order processing, tracking, and delivery for solar energy products.
-Provide stakeholders with real-time access to order status and tracking information.
+Develop a .Net Core Web API that connects to a database, enabling the streamlined management of logistics data.
+Optimize the handling of orders, their monitoring, and the transportation of solar energy items for improved efficiency.
+Empower stakeholders with instant access to real-time updates on order progress and tracking details.
 
 ## Logistics and Solar Energy
 EcoPower Logistics specializes in managing and optimizing the movement of solar energy products from source to destination. This includes careful warehousing, packaging, and transportation to ensure the secure delivery of products such as solar panels, inverters, batteries, and monitoring systems.
@@ -32,6 +31,18 @@ GET: Retrieve logistics data, including order status and tracking information.
 POST: Create new orders and add them to the database.
 PATCH: Update order information, such as delivery status.
 DELETE: Remove orders or products from the database.
+
+## Branching strategies to be used
+
+We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
+
+### Branch Types
+
+1. **Main Branch:** The `main` (or `master`) branch holds the stable and deployable code. It should always reflect the production-ready state.
+
+2. **Feature Branches:** For each new feature, bug fix, or enhancement, create a new branch based on `main`. Use descriptive names that reflect the feature or issue being addressed (e.g., `feature/user-authentication`, `bugfix/data-validation`).
+
+3. **Pull Requests:** When your feature is ready for review, open a pull request from your feature branch to `main`. This allows for code review, discussion, and testing before merging.
 
 ## How to Use This Project
 ### Stakeholders involved in logistics, solar energy systems, and technology integration can benefit from this project by following these steps:
