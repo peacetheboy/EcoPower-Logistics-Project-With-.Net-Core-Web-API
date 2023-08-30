@@ -5,11 +5,11 @@
 
 # Table Of Context
 
-#### Overview
+### Overview
 - Greetings!
 - Introduction
 
-#### Branching strategies to be used
+### Branching strategies to be used
 - Branch Types
 - Main Branch
 - Feature Branches
@@ -18,16 +18,16 @@
 ### Project Objectives
 - The main objectives of this project are as follows:
 
-#### Logistics and Solar Energy
+### Logistics and Solar Energy
 - EcoPower Logistics specializes in managing and optimizing the movement of solar energy products from source to destination.
 
-#### Technology Integration
+### Technology Integration
 - EcoPower Logistics recognizes the importance of technology in modern logistics.
 
-#### API Integration
+### API Integration
 - RESTful APIs provide an effective way to transport data between systems, interfaces, and applications.
 
-#### CRUD RESTful API
+### CRUD RESTful API
 - The heart of this project is the CRUD RESTful API. It includes the following endpoints:
   - GET
   - POST
