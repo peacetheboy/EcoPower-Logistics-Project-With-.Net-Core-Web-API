@@ -31,9 +31,9 @@
 
 ### API Integration
 ********************************************************************************************************************
-- RESTful APIs provide an effective way to transport data between systems, interfaces, and applications.
+- .Net Core Web API provide an effective way to transport data between systems, interfaces, and applications.
 
-### CRUD RESTful API
+### .Net Core Web API
 ********************************************************************************************************************
 - The heart of this project is the CRUD RESTful API. It includes the following endpoints:
   - GET
