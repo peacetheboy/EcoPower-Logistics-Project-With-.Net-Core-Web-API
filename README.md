@@ -1,8 +1,8 @@
 # CMPG-323-Project-2-36564567
 # EcoPower Logistics Project: With .Net Core Web API
 
+![API-Development-Guide](https://github.com/peacetheboy/CMPG-323-Project-2-36564567/assets/90477030/d6da9663-66dd-4bca-8434-42db3f96b4d9)
 ## Overview
-
 Greetings! Thank you for accessing the README for the EcoPower Logistics Project. This document offers a comprehensive outline of the project's goals, the extent of activities involved, and details on the utilization of the .Net Web API designed for streamlining logistics management. The primary objective of this initiative is to optimize the productivity and proficiency of logistics procedures through the integration of contemporary technology and API functionalities. Please continue reading for further information.
 
 ## Introduction
