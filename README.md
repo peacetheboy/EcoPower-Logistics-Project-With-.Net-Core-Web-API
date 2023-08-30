@@ -21,6 +21,11 @@ We follow a feature branching strategy to manage code changes effectively. This 
 
 3. **Pull Requests:** When your feature is ready for review, open a pull request from your feature branch to `main`. This allows for code review, discussion, and testing before merging.
 
+   **Pull request must meet the following criteria:**
+- [ ] Code compiles without any errors or warnings
+- [ ] Unit tests pass
+- [ ] Code coverage is greater than 100%
+
 
 ## Project Objectives
 ### The main objectives of this project are as follows:
