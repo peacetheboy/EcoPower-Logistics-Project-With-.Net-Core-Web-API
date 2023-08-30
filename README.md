@@ -81,8 +81,8 @@ Develop a .Net Core Web API that connects to a database, enabling the streamline
 Optimize the handling of orders, their monitoring, and the transportation of solar energy items for improved efficiency.
 Empower stakeholders with instant access to real-time updates on order progress and tracking details.
 
-## Logistics and Solar Energy
-EcoPower Logistics specializes in managing and optimizing the movement of solar energy products from source to destination. This includes careful warehousing, packaging, and transportation to ensure the secure delivery of products such as solar panels, inverters, batteries, and monitoring systems.
+## Managing Solar Energy Logistics
+EcoPower Logistics specializes in efficiently overseeing the movement of solar energy products. This involves careful storage, secure packaging, and reliable transportation of items like solar panels, inverters, batteries, and monitoring systems to ensure safe delivery.
 
 ## Technology Integration
 EcoPower Logistics recognizes the importance of technology in modern logistics. By integrating APIs and utilizing cloud-based services, the company aims to streamline operations and offer a seamless experience to customers. APIs play a crucial role in connecting various components of the logistics ecosystem.
