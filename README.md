@@ -6,28 +6,35 @@
 # Table Of Context
 
 ### Overview
+********************************************************************************************************************
 - Greetings!
 - Introduction
 
 ### Branching strategies to be used
+********************************************************************************************************************
 - Branch Types
 - Main Branch
 - Feature Branches
 - Pull Requests
 
 ### Project Objectives
+********************************************************************************************************************
 - The main objectives of this project are as follows:
 
 ### Logistics and Solar Energy
+********************************************************************************************************************
 - EcoPower Logistics specializes in managing and optimizing the movement of solar energy products from source to destination.
 
 ### Technology Integration
+********************************************************************************************************************
 - EcoPower Logistics recognizes the importance of technology in modern logistics.
 
 ### API Integration
+********************************************************************************************************************
 - RESTful APIs provide an effective way to transport data between systems, interfaces, and applications.
 
 ### CRUD RESTful API
+********************************************************************************************************************
 - The heart of this project is the CRUD RESTful API. It includes the following endpoints:
   - GET
   - POST
@@ -35,12 +42,13 @@
   - DELETE
 
 ### How to Use This Project
+********************************************************************************************************************
 - Review the README
 - Understand Logistics Processes
 - Explore API Integration
 - Study the CRUD API
 - Implementation
-- 
+ 
 ## Overview
 Greetings! Thank you for accessing the README for the EcoPower Logistics Project. This document offers a comprehensive outline of the project's goals, the extent of activities involved, and details on the utilization of the .Net Web API designed for streamlining logistics management. The primary objective of this initiative is to optimize the productivity and proficiency of logistics procedures through the integration of contemporary technology and API functionalities. Please continue reading for further information.
 
