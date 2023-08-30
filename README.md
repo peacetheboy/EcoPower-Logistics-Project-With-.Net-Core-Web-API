@@ -35,7 +35,7 @@
 
 ### .Net Core Web API
 ********************************************************************************************************************
-- The heart of this project is the CRUD RESTful API. It includes the following endpoints:
+- The heart of this project is the .Net Core Web API. It includes the following endpoints:
   - GET
   - POST
   - PATCH
@@ -46,7 +46,7 @@
 - Review the README
 - Understand Logistics Processes
 - Explore API Integration
-- Study the CRUD API
+- Study the .Net Core Web API
 - Implementation
  
 ## Overview
@@ -88,10 +88,10 @@ EcoPower Logistics specializes in managing and optimizing the movement of solar 
 EcoPower Logistics recognizes the importance of technology in modern logistics. By integrating APIs and utilizing cloud-based services, the company aims to streamline operations and offer a seamless experience to customers. APIs play a crucial role in connecting various components of the logistics ecosystem.
 
 ## API Integration
-RESTful APIs provide an effective way to transport data between systems, interfaces, and applications. In this project, the EcoPower Logistics Management System will be implemented as a set of RESTful APIs, allowing for efficient interaction with the database and data sources.
+.Net Core Web API provide an effective way to transport data between systems, interfaces, and applications. In this project, the EcoPower Logistics Management System will be implemented as a set of APIs, allowing for efficient interaction with the database and data sources.
 
-## CRUD RESTful API
-### The heart of this project is the CRUD RESTful API. It includes the following endpoints:
+## .Net Core Web API
+### The heart of this project is the .Net Core Web API. It includes the following endpoints:
 
 GET: Retrieve logistics data, including order status and tracking information.
 POST: Create new orders and add them to the database.
@@ -101,8 +101,8 @@ DELETE: Remove orders or products from the database.
 ## How to Use This Project
 ### Stakeholders involved in logistics, solar energy systems, and technology integration can benefit from this project by following these steps:
 
-*Review the README*: Familiarize yourself with the project's goals, objectives, and the role of the CRUD RESTful API.
+*Review the README*: Familiarize yourself with the project's goals, objectives, and the role of the .Net Core Web API.
 *Understand Logistics Processes*: Gain insights into how logistics and solar energy products are managed and delivered using the EcoPower Logistics approach.
 *Explore API Integration*: Understand the significance of API integration and how it improves logistics operations and customer experience.
-*Study the CRUD API*: Review the provided CRUD RESTful API endpoints to understand their functionalities for data management.
+*Study the .Net Core Web API*: Review the provided .Net Core Web API endpoints to understand their functionalities for data management.
 *Implementation*: If you're involved in the technical implementation, refer to the API documentation for integrating the provided endpoints with your systems.
