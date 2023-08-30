@@ -8,6 +8,19 @@ Greetings! Thank you for accessing the README for the EcoPower Logistics Project
 ## Introduction
 The EcoPower Logistics Project centers around enhancing the supervision of logistical activities, particularly for the distribution of solar energy commodities. This initiative encompasses the development of a .Net Core Web API, which interfaces with a database to streamline the handling of logistics information effectively.
 
+## Branching strategies to be used
+
+We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
+
+### Branch Types
+
+1. **Main Branch:** The `main` (or `master`) branch holds the stable and deployable code. It should always reflect the production-ready state.
+
+2. **Feature Branches:** For each new feature, bug fix, or enhancement, create a new branch based on `main`. Use descriptive names that reflect the feature or issue being addressed (e.g., `feature/user-authentication`, `bugfix/data-validation`).
+
+3. **Pull Requests:** When your feature is ready for review, open a pull request from your feature branch to `main`. This allows for code review, discussion, and testing before merging.
+
+
 ## Project Objectives
 ### The main objectives of this project are as follows:
 
@@ -31,18 +44,6 @@ GET: Retrieve logistics data, including order status and tracking information.
 POST: Create new orders and add them to the database.
 PATCH: Update order information, such as delivery status.
 DELETE: Remove orders or products from the database.
-
-## Branching strategies to be used
-
-We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
-
-### Branch Types
-
-1. **Main Branch:** The `main` (or `master`) branch holds the stable and deployable code. It should always reflect the production-ready state.
-
-2. **Feature Branches:** For each new feature, bug fix, or enhancement, create a new branch based on `main`. Use descriptive names that reflect the feature or issue being addressed (e.g., `feature/user-authentication`, `bugfix/data-validation`).
-
-3. **Pull Requests:** When your feature is ready for review, open a pull request from your feature branch to `main`. This allows for code review, discussion, and testing before merging.
 
 ## How to Use This Project
 ### Stakeholders involved in logistics, solar energy systems, and technology integration can benefit from this project by following these steps:
