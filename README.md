@@ -9,6 +9,7 @@ Greetings! Thank you for accessing the README for the EcoPower Logistics Project
 The EcoPower Logistics Project centers around enhancing the supervision of logistical activities, particularly for the distribution of solar energy commodities. This initiative encompasses the development of a .Net Core Web API, which interfaces with a database to streamline the handling of logistics information effectively.
 
 ## Branching strategies to be used
+![image](https://github.com/peacetheboy/CMPG-323-Project-2-36564567/assets/90477030/4ec1cfbf-2d78-4272-8841-1d2753199ecd)
 
 We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
 
