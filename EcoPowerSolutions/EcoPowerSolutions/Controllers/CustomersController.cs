@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace EcoPowerSolutions.Controllers
 {
-    [Authorize]
+    
     [Route("api/[controller]")]
     [ApiController]
     public class CustomersController : ControllerBase

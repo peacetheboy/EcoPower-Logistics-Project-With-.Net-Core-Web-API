@@ -10,7 +10,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EcoPowerSolutions.Controllers
 {
-    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
