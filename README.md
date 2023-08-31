@@ -109,6 +109,10 @@ DELETE: Remove orders or products from the database.
 *Study the .Net Core Web API*: Review the provided .Net Core Web API endpoints to understand their functionalities for data management.
 *Implementation*: If you're involved in the technical implementation, refer to the API documentation for integrating the provided endpoints with your systems.
 
+##Links To The API
+1. https://localhost:7268/swagger/index.html
+2. 
+
 ## Bibliography
 
 1. Branching strategies on Git: Real-time Git branching strategy for a DevOps project (2020) YouTube. Available at: https://youtu.be/Bg8tiOLZw4A?si=oFemMjdUO3sRZzaf (Accessed: 31 August 2023). 
