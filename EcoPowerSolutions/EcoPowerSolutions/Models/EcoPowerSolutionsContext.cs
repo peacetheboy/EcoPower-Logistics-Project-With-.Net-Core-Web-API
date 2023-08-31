@@ -25,7 +25,7 @@ public partial class EcoPowerSolutionsContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=EcoPowerSolutions; TrustServerCertificate=true; Data Source=LAB-A8-103");
+        => optionsBuilder.UseSqlServer("Data Source=ecopowersolution.database.windows.net;Initial Catalog=EcoPowerSolutionsDB;User ID=peacetheboy;Password=Peace0201!;Connect Timeout=30;Encrypt=True;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
