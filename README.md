@@ -108,3 +108,13 @@ DELETE: Remove orders or products from the database.
 *Explore API Integration*: Understand the significance of API integration and how it improves logistics operations and customer experience.
 *Study the .Net Core Web API*: Review the provided .Net Core Web API endpoints to understand their functionalities for data management.
 *Implementation*: If you're involved in the technical implementation, refer to the API documentation for integrating the provided endpoints with your systems.
+
+## Bibliography
+
+1. Branching strategies on Git: Real-time Git branching strategy for a DevOps project (2020) YouTube. Available at: https://youtu.be/Bg8tiOLZw4A?si=oFemMjdUO3sRZzaf (Accessed: 31 August 2023). 
+2. Ervis Trupja, E. (2021) 12. adding your first .NET core web api controller, YouTube. Available at: https://youtu.be/q8Pu_LozPFs?si=XTJxmWxfqVx9rR5S (Accessed: 31 August 2023). 
+3. Keep On Coding (2020) What is a web api?, YouTube. Available at: https://youtu.be/_7rT-ixivWU?si=NIdyTj73i-Px__vu (Accessed: 31 August 2023). 
+4. SCALER (2023) API tutorial for beginners: Application programming interface simplified: What is API: @SCALER, YouTube. Available at: https://youtu.be/Gj0yXQKUGKc?si=UZ17JnjJodU1hH6_ (Accessed: 31 August 2023). 
+5. AshProgHelp (2021) Publish .NET 5 web API on IIS || .NET core hosting on IIS, YouTube. Available at: https://youtu.be/GHT7gdfhUNw?si=NKg57P9Ts2sYnEvV (Accessed: 31 August 2023). 
+6. 24 Aug CMPG323 Weekly Virtual class API security (2023) YouTube. Available at: https://youtu.be/tg_0o6U_J-w?si=yBpzB9uYTa52s5d2 (Accessed: 31 August 2023). 
+7. 17 AUG CMPG323 Weekly Virtual Class Cloud, deploy API (2023) YouTube. Available at: https://youtu.be/murThM9ATJA?si=3OBlrPUkok3Qagbo (Accessed: 31 August 2023). 
