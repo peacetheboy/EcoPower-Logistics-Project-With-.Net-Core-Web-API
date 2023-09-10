@@ -595,3 +595,4 @@ C:\Users\user\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowe
 C:\Users\user\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\EcoPowerSolutions.pdb
 C:\Users\user\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\EcoPowerSolutions.genruntimeconfig.cache
 C:\Users\user\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\obj\Debug\net6.0\ref\EcoPowerSolutions.dll
+C:\Users\user\Source\Repos\CMPG-323-Project-2-36564567\EcoPowerSolutions\EcoPowerSolutions\bin\Debug\net6.0\launch.json
