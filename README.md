@@ -110,8 +110,7 @@ DELETE: Remove orders or products from the database.
 *Implementation*: If you're involved in the technical implementation, refer to the API documentation for integrating the provided endpoints with your systems.
 
 ##Links To The API
-1. https://localhost:7268/swagger/index.html
-2. https://ecopowersolutions36564567.azurewebsites.net
+1. https://ecopowersolutions36564567.azurewebsites.net
 
 ## Bibliography
 
